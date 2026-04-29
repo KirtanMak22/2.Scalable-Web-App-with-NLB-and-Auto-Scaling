@@ -1,14 +1,14 @@
 # 2.Scalable-Web-App-with-NLB-and-Auto-Scaling
 
-•	NLB = Network Load Balancer
+~ NLB = Network Load Balancer
 
-•	Purpose: Handle very high-performance / low-latency traffic
+~ Purpose: Handle very high-performance / low-latency traffic
 
-•	AWS Services:
+~ AWS Services:
 
-•	Amazon EC2
-•	Network Load Balancer
-•	Auto Scaling
+          Amazon EC2
+          Network Load Balancer
+          Auto Scaling
 
 Instance:
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/08d810d3-c908-4bb7-9b4c-82bf26c20c86" />
